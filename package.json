@@ -1,6 +1,6 @@
 {
   "name": "createapollocacheupdatemock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility function to help you unit test your Apollo Client cache updates",
   "scripts": {
     "test": "jest"
