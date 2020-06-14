@@ -1,0 +1,20 @@
+{
+  "name": "createapollocacheupdatemock",
+  "version": "1.0.0",
+  "description": "A utility function to help you unit test your Apollo Client cache updates",
+  "scripts": {
+    "test": "jest"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Luke Rogerson",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^26.0.0",
+    "@types/node": "^14.0.13",
+    "apollo-cache": "^1.3.5",
+    "apollo-link": "^1.2.14",
+    "jest": "^26.0.1",
+    "typescript": "^3.9.5"
+  }
+}
