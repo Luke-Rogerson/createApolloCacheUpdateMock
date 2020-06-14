@@ -16,5 +16,14 @@
     "apollo-link": "^1.2.14",
     "jest": "^26.0.1",
     "typescript": "^3.9.5"
-  }
+  },
+  "keywords": [
+    "apollo",
+    "mocks",
+    "test",
+    "testing",
+    "spies",
+    "typescript",
+    "jest"
+    ]
 }
